@@ -1,0 +1,5 @@
+git clone:kéo dự án trên server về máy tính
+git Init :khởi tạo thư mục local
+git status : kiểm tra status của file
+git add . : đưa tất cả các file có sự thay đổi vào vùng chính giữa
+git add + tên file :đưa 1 file vào vùng có sự thay đổi
