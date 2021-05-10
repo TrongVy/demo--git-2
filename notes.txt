@@ -1,5 +1,10 @@
 git clone:kéo dự án trên server về máy tính
-git Init :khởi tạo thư mục local
+b1 : git Init :khởi tạo thư mục local
 git status : kiểm tra status của file
-git add . : đưa tất cả các file có sự thay đổi vào vùng chính giữa
+b2 : git add . : đưa tất cả các file có sự thay đổi vào vùng chính giữa
 git add + tên file :đưa 1 file vào vùng có sự thay đổi
+git rm --cached <file>: đưa 1 file từ stagin quay lại vùng working directory
+git commit -m "message" :đưa các file có sự thay đổi sang vùng repo
+git config --global user.email "you@example.com" : set email
+git config --global user.name "Your Name" : set name
+git log : kiểm tra email commit
